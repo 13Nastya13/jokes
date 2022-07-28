@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/norris"
+        android:icon="@drawable/ic_liked"
+        android:title="@string/button_chuck_norris"/>
+    <item
+        android:id="@+id/dad"
+        android:icon="@drawable/ic_disliked"
+        android:title="@string/button_dad_jokes"/>
+</menu>

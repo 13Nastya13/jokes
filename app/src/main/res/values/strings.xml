@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chuck Norris</string>
+
+    <string name="button_dad_jokes">Dad jokes</string>
+    <string name="button_chuck_norris">Chuck Norris facts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
